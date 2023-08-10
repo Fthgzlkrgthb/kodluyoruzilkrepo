@@ -1,0 +1,15 @@
+[7,5,1,8,3,6,0,9,4,2]
+
+
+
+1-kök 7 secilir
+2-5 kökten kucuk olduğu için sola eklendi
+3-1 5 in soluna eklendi
+4-8 kökten büyük sağa eklendi
+5-diğer adımlarda aynı şekilde devam ettirildi
+
+     7
+   / \
+  5   8
+ / \   \
+1   3   9
